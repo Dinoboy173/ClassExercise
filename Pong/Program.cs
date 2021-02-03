@@ -12,5 +12,20 @@ namespace Pong
         {
             
         }
+
+        public void LoadGame()
+        {
+            
+        }
+
+        public void Update(float deltaTime)
+        { 
+            
+        }
+
+        public void Draw()
+        {
+
+        }
     }
 }
