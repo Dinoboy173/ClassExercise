@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIE_12_Nine_Times_Tables", "ClassExercise\AIE_12_Nine_Times_Tables.csproj", "{5B5A716F-7EF6-4B7D-8173-0B460DD833D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIE_13_All_Times_Tables", "AIE_13_All_Times_Tables\AIE_13_All_Times_Tables.csproj", "{77041911-A6C7-4BB4-AE27-1D5D230E5EB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIE_14_Password_Prompt", "AIE_14_Password_Prompt\AIE_14_Password_Prompt.csproj", "{686D5BE4-6EBB-453D-9B39-9DBE600DFD39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIE_15_Calculate_Cube", "AIE_15_Calculate_Cube\AIE_15_Calculate_Cube.csproj", "{A3EFCB66-81A9-4663-B137-8A5C2E8E3B63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIE_16_Is_A_Vowel", "AIE_16_Is_A_Vowel\AIE_16_Is_A_Vowel.csproj", "{14F6EF1D-686E-441C-8D3D-2BDD467876F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIE_17_Calculator", "AIE_17_Calculator\AIE_17_Calculator.csproj", "{39896A16-6D07-4BE5-80E5-1CA8ABB101AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B5A716F-7EF6-4B7D-8173-0B460DD833D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B5A716F-7EF6-4B7D-8173-0B460DD833D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B5A716F-7EF6-4B7D-8173-0B460DD833D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B5A716F-7EF6-4B7D-8173-0B460DD833D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77041911-A6C7-4BB4-AE27-1D5D230E5EB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77041911-A6C7-4BB4-AE27-1D5D230E5EB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77041911-A6C7-4BB4-AE27-1D5D230E5EB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77041911-A6C7-4BB4-AE27-1D5D230E5EB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{686D5BE4-6EBB-453D-9B39-9DBE600DFD39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{686D5BE4-6EBB-453D-9B39-9DBE600DFD39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{686D5BE4-6EBB-453D-9B39-9DBE600DFD39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{686D5BE4-6EBB-453D-9B39-9DBE600DFD39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3EFCB66-81A9-4663-B137-8A5C2E8E3B63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3EFCB66-81A9-4663-B137-8A5C2E8E3B63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3EFCB66-81A9-4663-B137-8A5C2E8E3B63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3EFCB66-81A9-4663-B137-8A5C2E8E3B63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14F6EF1D-686E-441C-8D3D-2BDD467876F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14F6EF1D-686E-441C-8D3D-2BDD467876F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14F6EF1D-686E-441C-8D3D-2BDD467876F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14F6EF1D-686E-441C-8D3D-2BDD467876F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39896A16-6D07-4BE5-80E5-1CA8ABB101AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39896A16-6D07-4BE5-80E5-1CA8ABB101AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39896A16-6D07-4BE5-80E5-1CA8ABB101AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39896A16-6D07-4BE5-80E5-1CA8ABB101AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3EC14C47-7915-400D-8498-4556E6F01578}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+C:\Users\s201031\source\repos\ClassExercise\ClassExercise\bin\Debug\netcoreapp3.1\AIE_12_Nine_Times_Tables.exe
+C:\Users\s201031\source\repos\ClassExercise\ClassExercise\bin\Debug\netcoreapp3.1\AIE_12_Nine_Times_Tables.deps.json
+C:\Users\s201031\source\repos\ClassExercise\ClassExercise\bin\Debug\netcoreapp3.1\AIE_12_Nine_Times_Tables.runtimeconfig.json
+C:\Users\s201031\source\repos\ClassExercise\ClassExercise\bin\Debug\netcoreapp3.1\AIE_12_Nine_Times_Tables.runtimeconfig.dev.json
+C:\Users\s201031\source\repos\ClassExercise\ClassExercise\bin\Debug\netcoreapp3.1\AIE_12_Nine_Times_Tables.dll
+C:\Users\s201031\source\repos\ClassExercise\ClassExercise\bin\Debug\netcoreapp3.1\AIE_12_Nine_Times_Tables.pdb
+C:\Users\s201031\source\repos\ClassExercise\ClassExercise\obj\Debug\netcoreapp3.1\AIE_12_Nine_Times_Tables.AssemblyInfoInputs.cache
+C:\Users\s201031\source\repos\ClassExercise\ClassExercise\obj\Debug\netcoreapp3.1\AIE_12_Nine_Times_Tables.AssemblyInfo.cs
+C:\Users\s201031\source\repos\ClassExercise\ClassExercise\obj\Debug\netcoreapp3.1\AIE_12_Nine_Times_Tables.dll
+C:\Users\s201031\source\repos\ClassExercise\ClassExercise\obj\Debug\netcoreapp3.1\AIE_12_Nine_Times_Tables.pdb
