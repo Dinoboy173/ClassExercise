@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\s201031\\source\\repos\\ClassExercise\\AIE_15_Calculate_Cube\\AIE_15_Calculate_Cube.csproj",
+      "projectUniqueName": "C:\\Users\\s201031\\Downloads\\ClassExercise\\AIE_15_Calculate_Cube\\AIE_15_Calculate_Cube.csproj",
       "projectName": "AIE_15_Calculate_Cube",
-      "projectPath": "C:\\Users\\s201031\\source\\repos\\ClassExercise\\AIE_15_Calculate_Cube\\AIE_15_Calculate_Cube.csproj",
+      "projectPath": "C:\\Users\\s201031\\Downloads\\ClassExercise\\AIE_15_Calculate_Cube\\AIE_15_Calculate_Cube.csproj",
       "packagesPath": "C:\\Users\\s201031\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\s201031\\source\\repos\\ClassExercise\\AIE_15_Calculate_Cube\\obj\\",
+      "outputPath": "C:\\Users\\s201031\\Downloads\\ClassExercise\\AIE_15_Calculate_Cube\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\s201031\\AppData\\Roaming\\NuGet\\NuGet.Config",

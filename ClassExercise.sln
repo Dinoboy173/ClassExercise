@@ -3,17 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29728.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIE_12_Nine_Times_Tables", "ClassExercise\AIE_12_Nine_Times_Tables.csproj", "{5B5A716F-7EF6-4B7D-8173-0B460DD833D9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AIE_12_Nine_Times_Tables", "ClassExercise\AIE_12_Nine_Times_Tables.csproj", "{5B5A716F-7EF6-4B7D-8173-0B460DD833D9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIE_13_All_Times_Tables", "AIE_13_All_Times_Tables\AIE_13_All_Times_Tables.csproj", "{77041911-A6C7-4BB4-AE27-1D5D230E5EB9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AIE_13_All_Times_Tables", "AIE_13_All_Times_Tables\AIE_13_All_Times_Tables.csproj", "{77041911-A6C7-4BB4-AE27-1D5D230E5EB9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIE_14_Password_Prompt", "AIE_14_Password_Prompt\AIE_14_Password_Prompt.csproj", "{686D5BE4-6EBB-453D-9B39-9DBE600DFD39}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AIE_14_Password_Prompt", "AIE_14_Password_Prompt\AIE_14_Password_Prompt.csproj", "{686D5BE4-6EBB-453D-9B39-9DBE600DFD39}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIE_15_Calculate_Cube", "AIE_15_Calculate_Cube\AIE_15_Calculate_Cube.csproj", "{A3EFCB66-81A9-4663-B137-8A5C2E8E3B63}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AIE_15_Calculate_Cube", "AIE_15_Calculate_Cube\AIE_15_Calculate_Cube.csproj", "{A3EFCB66-81A9-4663-B137-8A5C2E8E3B63}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIE_16_Is_A_Vowel", "AIE_16_Is_A_Vowel\AIE_16_Is_A_Vowel.csproj", "{14F6EF1D-686E-441C-8D3D-2BDD467876F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AIE_16_Is_A_Vowel", "AIE_16_Is_A_Vowel\AIE_16_Is_A_Vowel.csproj", "{14F6EF1D-686E-441C-8D3D-2BDD467876F1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIE_17_Calculator", "AIE_17_Calculator\AIE_17_Calculator.csproj", "{39896A16-6D07-4BE5-80E5-1CA8ABB101AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AIE_17_Calculator", "AIE_17_Calculator\AIE_17_Calculator.csproj", "{39896A16-6D07-4BE5-80E5-1CA8ABB101AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pong", "Pong\Pong.csproj", "{DED5EA6A-02B0-4620-A767-F19ACAFBC928}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{39896A16-6D07-4BE5-80E5-1CA8ABB101AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{39896A16-6D07-4BE5-80E5-1CA8ABB101AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{39896A16-6D07-4BE5-80E5-1CA8ABB101AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DED5EA6A-02B0-4620-A767-F19ACAFBC928}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DED5EA6A-02B0-4620-A767-F19ACAFBC928}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DED5EA6A-02B0-4620-A767-F19ACAFBC928}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DED5EA6A-02B0-4620-A767-F19ACAFBC928}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
