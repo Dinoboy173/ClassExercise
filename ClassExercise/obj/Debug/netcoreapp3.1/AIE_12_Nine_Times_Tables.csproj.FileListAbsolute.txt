@@ -8,3 +8,16 @@ C:\Users\s201031\source\repos\ClassExercise\ClassExercise\obj\Debug\netcoreapp3.
 C:\Users\s201031\source\repos\ClassExercise\ClassExercise\obj\Debug\netcoreapp3.1\AIE_12_Nine_Times_Tables.AssemblyInfo.cs
 C:\Users\s201031\source\repos\ClassExercise\ClassExercise\obj\Debug\netcoreapp3.1\AIE_12_Nine_Times_Tables.dll
 C:\Users\s201031\source\repos\ClassExercise\ClassExercise\obj\Debug\netcoreapp3.1\AIE_12_Nine_Times_Tables.pdb
+C:\Users\dinob\OneDrive\Desktop\AIE\ClassExercise\ClassExercise\bin\Debug\netcoreapp3.1\AIE_12_Nine_Times_Tables.exe
+C:\Users\dinob\OneDrive\Desktop\AIE\ClassExercise\ClassExercise\bin\Debug\netcoreapp3.1\AIE_12_Nine_Times_Tables.deps.json
+C:\Users\dinob\OneDrive\Desktop\AIE\ClassExercise\ClassExercise\bin\Debug\netcoreapp3.1\AIE_12_Nine_Times_Tables.runtimeconfig.json
+C:\Users\dinob\OneDrive\Desktop\AIE\ClassExercise\ClassExercise\bin\Debug\netcoreapp3.1\AIE_12_Nine_Times_Tables.runtimeconfig.dev.json
+C:\Users\dinob\OneDrive\Desktop\AIE\ClassExercise\ClassExercise\bin\Debug\netcoreapp3.1\AIE_12_Nine_Times_Tables.dll
+C:\Users\dinob\OneDrive\Desktop\AIE\ClassExercise\ClassExercise\bin\Debug\netcoreapp3.1\AIE_12_Nine_Times_Tables.pdb
+C:\Users\dinob\OneDrive\Desktop\AIE\ClassExercise\ClassExercise\obj\Debug\netcoreapp3.1\AIE_12_Nine_Times_Tables.csprojAssemblyReference.cache
+C:\Users\dinob\OneDrive\Desktop\AIE\ClassExercise\ClassExercise\obj\Debug\netcoreapp3.1\AIE_12_Nine_Times_Tables.AssemblyInfoInputs.cache
+C:\Users\dinob\OneDrive\Desktop\AIE\ClassExercise\ClassExercise\obj\Debug\netcoreapp3.1\AIE_12_Nine_Times_Tables.AssemblyInfo.cs
+C:\Users\dinob\OneDrive\Desktop\AIE\ClassExercise\ClassExercise\obj\Debug\netcoreapp3.1\AIE_12_Nine_Times_Tables.csproj.CoreCompileInputs.cache
+C:\Users\dinob\OneDrive\Desktop\AIE\ClassExercise\ClassExercise\obj\Debug\netcoreapp3.1\AIE_12_Nine_Times_Tables.dll
+C:\Users\dinob\OneDrive\Desktop\AIE\ClassExercise\ClassExercise\obj\Debug\netcoreapp3.1\AIE_12_Nine_Times_Tables.pdb
+C:\Users\dinob\OneDrive\Desktop\AIE\ClassExercise\ClassExercise\obj\Debug\netcoreapp3.1\AIE_12_Nine_Times_Tables.genruntimeconfig.cache

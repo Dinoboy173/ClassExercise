@@ -9,3 +9,16 @@ C:\Users\s201031\source\repos\ClassExercise\AIE_15_Calculate_Cube\bin\Debug\netc
 C:\Users\s201031\source\repos\ClassExercise\AIE_15_Calculate_Cube\bin\Debug\netcoreapp3.1\AIE_15_Calculate_Cube.pdb
 C:\Users\s201031\source\repos\ClassExercise\AIE_15_Calculate_Cube\obj\Debug\netcoreapp3.1\AIE_15_Calculate_Cube.dll
 C:\Users\s201031\source\repos\ClassExercise\AIE_15_Calculate_Cube\obj\Debug\netcoreapp3.1\AIE_15_Calculate_Cube.pdb
+C:\Users\dinob\OneDrive\Desktop\AIE\ClassExercise\AIE_15_Calculate_Cube\bin\Debug\netcoreapp3.1\AIE_15_Calculate_Cube.exe
+C:\Users\dinob\OneDrive\Desktop\AIE\ClassExercise\AIE_15_Calculate_Cube\bin\Debug\netcoreapp3.1\AIE_15_Calculate_Cube.deps.json
+C:\Users\dinob\OneDrive\Desktop\AIE\ClassExercise\AIE_15_Calculate_Cube\bin\Debug\netcoreapp3.1\AIE_15_Calculate_Cube.runtimeconfig.json
+C:\Users\dinob\OneDrive\Desktop\AIE\ClassExercise\AIE_15_Calculate_Cube\bin\Debug\netcoreapp3.1\AIE_15_Calculate_Cube.runtimeconfig.dev.json
+C:\Users\dinob\OneDrive\Desktop\AIE\ClassExercise\AIE_15_Calculate_Cube\bin\Debug\netcoreapp3.1\AIE_15_Calculate_Cube.dll
+C:\Users\dinob\OneDrive\Desktop\AIE\ClassExercise\AIE_15_Calculate_Cube\bin\Debug\netcoreapp3.1\AIE_15_Calculate_Cube.pdb
+C:\Users\dinob\OneDrive\Desktop\AIE\ClassExercise\AIE_15_Calculate_Cube\obj\Debug\netcoreapp3.1\AIE_15_Calculate_Cube.csprojAssemblyReference.cache
+C:\Users\dinob\OneDrive\Desktop\AIE\ClassExercise\AIE_15_Calculate_Cube\obj\Debug\netcoreapp3.1\AIE_15_Calculate_Cube.AssemblyInfoInputs.cache
+C:\Users\dinob\OneDrive\Desktop\AIE\ClassExercise\AIE_15_Calculate_Cube\obj\Debug\netcoreapp3.1\AIE_15_Calculate_Cube.AssemblyInfo.cs
+C:\Users\dinob\OneDrive\Desktop\AIE\ClassExercise\AIE_15_Calculate_Cube\obj\Debug\netcoreapp3.1\AIE_15_Calculate_Cube.csproj.CoreCompileInputs.cache
+C:\Users\dinob\OneDrive\Desktop\AIE\ClassExercise\AIE_15_Calculate_Cube\obj\Debug\netcoreapp3.1\AIE_15_Calculate_Cube.dll
+C:\Users\dinob\OneDrive\Desktop\AIE\ClassExercise\AIE_15_Calculate_Cube\obj\Debug\netcoreapp3.1\AIE_15_Calculate_Cube.pdb
+C:\Users\dinob\OneDrive\Desktop\AIE\ClassExercise\AIE_15_Calculate_Cube\obj\Debug\netcoreapp3.1\AIE_15_Calculate_Cube.genruntimeconfig.cache

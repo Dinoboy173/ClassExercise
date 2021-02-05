@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\s201031\\Downloads\\ClassExercise\\AIE_15_Calculate_Cube\\AIE_15_Calculate_Cube.csproj": {}
+    "C:\\Users\\dinob\\OneDrive\\Desktop\\AIE\\ClassExercise\\AIE_15_Calculate_Cube\\AIE_15_Calculate_Cube.csproj": {}
   },
   "projects": {
-    "C:\\Users\\s201031\\Downloads\\ClassExercise\\AIE_15_Calculate_Cube\\AIE_15_Calculate_Cube.csproj": {
+    "C:\\Users\\dinob\\OneDrive\\Desktop\\AIE\\ClassExercise\\AIE_15_Calculate_Cube\\AIE_15_Calculate_Cube.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\s201031\\Downloads\\ClassExercise\\AIE_15_Calculate_Cube\\AIE_15_Calculate_Cube.csproj",
+        "projectUniqueName": "C:\\Users\\dinob\\OneDrive\\Desktop\\AIE\\ClassExercise\\AIE_15_Calculate_Cube\\AIE_15_Calculate_Cube.csproj",
         "projectName": "AIE_15_Calculate_Cube",
-        "projectPath": "C:\\Users\\s201031\\Downloads\\ClassExercise\\AIE_15_Calculate_Cube\\AIE_15_Calculate_Cube.csproj",
-        "packagesPath": "C:\\Users\\s201031\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\s201031\\Downloads\\ClassExercise\\AIE_15_Calculate_Cube\\obj\\",
+        "projectPath": "C:\\Users\\dinob\\OneDrive\\Desktop\\AIE\\ClassExercise\\AIE_15_Calculate_Cube\\AIE_15_Calculate_Cube.csproj",
+        "packagesPath": "C:\\Users\\dinob\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dinob\\OneDrive\\Desktop\\AIE\\ClassExercise\\AIE_15_Calculate_Cube\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\s201031\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dinob\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -52,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

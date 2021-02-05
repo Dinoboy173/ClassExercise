@@ -9,3 +9,16 @@ C:\Users\s201031\source\repos\ClassExercise\AIE_13_All_Times_Tables\bin\Debug\ne
 C:\Users\s201031\source\repos\ClassExercise\AIE_13_All_Times_Tables\obj\Debug\netcoreapp3.1\AIE_13_All_Times_Tables.dll
 C:\Users\s201031\source\repos\ClassExercise\AIE_13_All_Times_Tables\obj\Debug\netcoreapp3.1\AIE_13_All_Times_Tables.pdb
 C:\Users\s201031\source\repos\ClassExercise\AIE_13_All_Times_Tables\obj\Debug\netcoreapp3.1\AIE_13_All_Times_Tables.csprojAssemblyReference.cache
+C:\Users\dinob\OneDrive\Desktop\AIE\ClassExercise\AIE_13_All_Times_Tables\bin\Debug\netcoreapp3.1\AIE_13_All_Times_Tables.exe
+C:\Users\dinob\OneDrive\Desktop\AIE\ClassExercise\AIE_13_All_Times_Tables\bin\Debug\netcoreapp3.1\AIE_13_All_Times_Tables.deps.json
+C:\Users\dinob\OneDrive\Desktop\AIE\ClassExercise\AIE_13_All_Times_Tables\bin\Debug\netcoreapp3.1\AIE_13_All_Times_Tables.runtimeconfig.json
+C:\Users\dinob\OneDrive\Desktop\AIE\ClassExercise\AIE_13_All_Times_Tables\bin\Debug\netcoreapp3.1\AIE_13_All_Times_Tables.runtimeconfig.dev.json
+C:\Users\dinob\OneDrive\Desktop\AIE\ClassExercise\AIE_13_All_Times_Tables\bin\Debug\netcoreapp3.1\AIE_13_All_Times_Tables.dll
+C:\Users\dinob\OneDrive\Desktop\AIE\ClassExercise\AIE_13_All_Times_Tables\bin\Debug\netcoreapp3.1\AIE_13_All_Times_Tables.pdb
+C:\Users\dinob\OneDrive\Desktop\AIE\ClassExercise\AIE_13_All_Times_Tables\obj\Debug\netcoreapp3.1\AIE_13_All_Times_Tables.csprojAssemblyReference.cache
+C:\Users\dinob\OneDrive\Desktop\AIE\ClassExercise\AIE_13_All_Times_Tables\obj\Debug\netcoreapp3.1\AIE_13_All_Times_Tables.AssemblyInfoInputs.cache
+C:\Users\dinob\OneDrive\Desktop\AIE\ClassExercise\AIE_13_All_Times_Tables\obj\Debug\netcoreapp3.1\AIE_13_All_Times_Tables.AssemblyInfo.cs
+C:\Users\dinob\OneDrive\Desktop\AIE\ClassExercise\AIE_13_All_Times_Tables\obj\Debug\netcoreapp3.1\AIE_13_All_Times_Tables.csproj.CoreCompileInputs.cache
+C:\Users\dinob\OneDrive\Desktop\AIE\ClassExercise\AIE_13_All_Times_Tables\obj\Debug\netcoreapp3.1\AIE_13_All_Times_Tables.dll
+C:\Users\dinob\OneDrive\Desktop\AIE\ClassExercise\AIE_13_All_Times_Tables\obj\Debug\netcoreapp3.1\AIE_13_All_Times_Tables.pdb
+C:\Users\dinob\OneDrive\Desktop\AIE\ClassExercise\AIE_13_All_Times_Tables\obj\Debug\netcoreapp3.1\AIE_13_All_Times_Tables.genruntimeconfig.cache
